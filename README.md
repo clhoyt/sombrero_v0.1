@@ -1,8 +1,9 @@
 # sombrero_v0.1
 
 ### Sombrero Raytracer for X-ray Optics
+Cad Hoyt, Ph.D.
 
-This code was developed by me while I was pursuing my Ph.D. at Cornell University in the Laboratory of Plasma Studies. 
+I developed this code while I was pursuing my Ph.D. at Cornell University in the Laboratory of Plasma Studies. 
 
 https://www.lps.cornell.edu/
 
